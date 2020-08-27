@@ -1,0 +1,8 @@
+torch
+torchvision
+Pillow
+imageio
+numpy
+opencv-python
+thop
+tqdm
